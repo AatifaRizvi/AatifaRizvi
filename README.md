@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am deeply passionate about bridging the gap between complex AI algorithms and real-world impact.<br><br>🌱 I’m currently learning DSA, advanced machine learning and deep learning and automation.<br><br>💬 Ask me about: Python, C, C++, JavaScript, Flask, MySQL, & Front-End Development in Python, C++, Machine Learning, Deep Learning, Computer Vision (OpenCV, TensorFlow), MySQL and Front-end development<br> <br>📫 How to reach me: rizviaatifa235@gmail.com
+I am deeply passionate about bridging the gap between complex AI algorithms and real-world impact.<br><br>🌱 I’m currently learning DSA, advanced machine learning, deep learning and automation.<br><br>💬 Ask me about: Python, C, C++, JavaScript, Flask, MySQL, & Front-End Development in Python, C++, Machine Learning, Deep Learning, Computer Vision (OpenCV, TensorFlow), MySQL and Front-end development<br> <br>📫 How to reach me: rizviaatifa235@gmail.com
 
 
 ## 🌐 Socials:
