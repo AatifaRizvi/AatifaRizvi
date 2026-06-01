@@ -1,5 +1,13 @@
 # 💫 About Me:
-I am deeply passionate about bridging the gap between complex AI algorithms and real-world impact.<br><br>🌱 I’m currently learning DSA, Generative AI and automation.<br><br>💬 Ask me about: Python, C++, JavaScript, Flask, & Front-End Development in Python, C++, Machine Learning, Deep Learning, Computer Vision (OpenCV, TensorFlow), MySQL and Front-end development<br> <br>📫 How to reach me: rizviaatifa235@gmail.com
+# Greetings, I'm Aatifa Rizvi
+
+Driven by curiosity and passionate about creating AI systems that bridge cutting-edge research with real-world impact.
+
+* Exploring Generative AI, Large Language Models (LLMs) and Computer Vision
+* Developing AI-powered products, automation workflows, and scalable software solutions
+* Focused on continuous learning, innovation, and solving meaningful problems through technology
+
+**Interests:** Artificial Intelligence • Machine Learning • Generative AI • NLP • Computer Vision • Automation • Software Engineering
 
 
 ## 🌐 Socials:
